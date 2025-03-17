@@ -22,7 +22,7 @@ LIMIT 10;**
 
 <br />
 <br />
-<img src="https://i.imgur.com/lIhogaE.png"/>
+<img src="https://i.imgur.com/5l1dSyL.png"/>
 
 ---
 
@@ -37,7 +37,7 @@ FROM `bigquery-public-data.goog_blockchain_fantom_opera_us.transactions;**
 
 <br />
 <br />
-<img src="https://i.imgur.com/LNBhTOy.png"/>                                        
+<img src="https://i.imgur.com/5VDJ18e.png"/>                                        
 
 ---
 
@@ -55,7 +55,7 @@ ORDER BY date;**
  
   - Cost Reduction: Users can avoid peak fee periods
   
-  <img src="https://i.imgur.com/MThqeDu.png"/>
+  <img src="https://i.imgur.com/Mh1A7YK.png"/>
 
   ---
   
@@ -76,5 +76,5 @@ LIMIT 10;**
 <br />
 <br />
 
-<img src="https://i.imgur.com/h6IVi7C.png"/>
+<img src="https://i.imgur.com/cXE2IEF.png"/>
 
